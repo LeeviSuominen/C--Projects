@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\Kauppiaan kauppa.exe
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\Kauppiaan kauppa.deps.json
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\Kauppiaan kauppa.runtimeconfig.json
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\Kauppiaan kauppa.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\Kauppiaan kauppa.dll
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\ref\Kauppiaan kauppa.dll
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\bin\Debug\net5.0\Kauppiaan kauppa.pdb
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.dll
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\ref\Kauppiaan kauppa.dll
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.pdb
+C:\Users\s2101087\source\repos\Kauppiaan kauppa\obj\Debug\net5.0\Kauppiaan kauppa.genruntimeconfig.cache

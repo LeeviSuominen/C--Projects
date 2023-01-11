@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\Arvuutuskone.exe
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\Arvuutuskone.deps.json
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\Arvuutuskone.runtimeconfig.json
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\Arvuutuskone.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\Arvuutuskone.dll
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\ref\Arvuutuskone.dll
+C:\Users\s2101087\source\repos\Arvuutuskone\bin\Debug\net5.0\Arvuutuskone.pdb
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.dll
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\ref\Arvuutuskone.dll
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.pdb
+C:\Users\s2101087\source\repos\Arvuutuskone\obj\Debug\net5.0\Arvuutuskone.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\Kolmio.exe
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\Kolmio.deps.json
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\Kolmio.runtimeconfig.json
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\Kolmio.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\Kolmio.dll
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\ref\Kolmio.dll
+C:\Users\s2101087\source\repos\Kolmio\bin\Debug\net5.0\Kolmio.pdb
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.dll
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\ref\Kolmio.dll
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.pdb
+C:\Users\s2101087\source\repos\Kolmio\obj\Debug\net5.0\Kolmio.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\Harjoitustyö.exe
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\Harjoitustyö.deps.json
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\Harjoitustyö.runtimeconfig.json
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\Harjoitustyö.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\Harjoitustyö.dll
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\ref\Harjoitustyö.dll
+C:\Users\s2101087\source\repos\Harjoitustyö\bin\Debug\net5.0\Harjoitustyö.pdb
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.dll
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\ref\Harjoitustyö.dll
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.pdb
+C:\Users\s2101087\source\repos\Harjoitustyö\obj\Debug\net5.0\Harjoitustyö.genruntimeconfig.cache

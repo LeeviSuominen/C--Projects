@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\Muuttujat tehtävä.exe
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\Muuttujat tehtävä.deps.json
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\Muuttujat tehtävä.runtimeconfig.json
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\Muuttujat tehtävä.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\Muuttujat tehtävä.dll
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\ref\Muuttujat tehtävä.dll
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\bin\Debug\net5.0\Muuttujat tehtävä.pdb
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.dll
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\ref\Muuttujat tehtävä.dll
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.pdb
+C:\Users\s2101087\source\repos\Muuttujat tehtävä\obj\Debug\net5.0\Muuttujat tehtävä.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\Taikakanuuna.exe
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\Taikakanuuna.deps.json
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\Taikakanuuna.runtimeconfig.json
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\Taikakanuuna.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\Taikakanuuna.dll
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\ref\Taikakanuuna.dll
+C:\Users\s2101087\source\repos\Taikakanuuna\bin\Debug\net5.0\Taikakanuuna.pdb
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.dll
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\ref\Taikakanuuna.dll
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.pdb
+C:\Users\s2101087\source\repos\Taikakanuuna\obj\Debug\net5.0\Taikakanuuna.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\Lohikäärme taistelu.exe
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\Lohikäärme taistelu.deps.json
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\Lohikäärme taistelu.runtimeconfig.json
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\Lohikäärme taistelu.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\Lohikäärme taistelu.dll
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\ref\Lohikäärme taistelu.dll
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\bin\Debug\net5.0\Lohikäärme taistelu.pdb
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.dll
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\ref\Lohikäärme taistelu.dll
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.pdb
+C:\Users\s2101087\source\repos\Lohikäärme taistelu\obj\Debug\net5.0\Lohikäärme taistelu.genruntimeconfig.cache

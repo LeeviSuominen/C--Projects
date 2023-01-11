@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.exe
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.deps.json
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.runtimeconfig.json
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.dll
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\ref\The Robot Namer 5000.dll
+C:\Users\s2101087\source\repos\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.pdb
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.dll
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\ref\The Robot Namer 5000.dll
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.pdb
+C:\Users\s2101087\source\repos\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.genruntimeconfig.cache

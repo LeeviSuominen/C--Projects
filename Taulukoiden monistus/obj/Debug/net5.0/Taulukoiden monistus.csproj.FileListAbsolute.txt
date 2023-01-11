@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.exe
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.deps.json
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.runtimeconfig.json
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.dll
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\ref\Taulukoiden monistus.dll
+C:\Users\s2101087\source\repos\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.pdb
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.dll
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\ref\Taulukoiden monistus.dll
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.pdb
+C:\Users\s2101087\source\repos\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.genruntimeconfig.cache

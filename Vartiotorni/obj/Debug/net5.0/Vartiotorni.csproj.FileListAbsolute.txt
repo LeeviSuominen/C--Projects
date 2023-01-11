@@ -1,0 +1,16 @@
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\Vartiotorni.exe
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\Vartiotorni.deps.json
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\Vartiotorni.runtimeconfig.json
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\Vartiotorni.runtimeconfig.dev.json
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\Vartiotorni.dll
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\ref\Vartiotorni.dll
+C:\Users\s2101087\source\repos\Vartiotorni\bin\Debug\net5.0\Vartiotorni.pdb
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.csproj.AssemblyReference.cache
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.AssemblyInfoInputs.cache
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.AssemblyInfo.cs
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.dll
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\ref\Vartiotorni.dll
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.pdb
+C:\Users\s2101087\source\repos\Vartiotorni\obj\Debug\net5.0\Vartiotorni.genruntimeconfig.cache

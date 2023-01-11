@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kauppiaan kauppa + alennus/1.0.0": {
+        "runtime": {
+          "Kauppiaan kauppa + alennus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kauppiaan kauppa + alennus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
